@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">e255baeb83102210584d56e0deaad392</canvas>
+        <component display_value="Single score">d24d53f60350de7a652caf3188a46ed2</component>
+        <component_props>{"scoreSize":"md","headingPosition":"top","sparklineStyle":"area","showScoreDate":false,"useRelativeScoreTime":false,"showScoreUpdateTime":true,"enableRealTimeUpdate":true,"showZero":true,"colorConfig":{"type":"default"},"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"To Do","sourceType":"table","tableOrViewName":"x_1635154_to_do_to_do","filterQuery":"","preferredVisualizations":["d24d53f60350de7a652caf3188a46ed2"],"id":"tablex_1635154_to_do_to_do1742577405829","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"wrapTitle":false,"showHeaderSeparator":true,"headerTitle":"All","showBorder":true,"bareBorder":false,"showDataPassthrough":false,"dataPassthrough":null,"metrics":[{"dataSource":"tablex_1635154_to_do_to_do1742577405829","id":"tablex_1635154_to_do_to_do17425774058291742577405833","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":null,"sortBy":"value","sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableDrilldown":true,"showMaximumRange":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":false,"period":"M","dateFormat":"default","hideMatrixAggregate":false,"newReporting":false,"filterConfigurations":[],"noDebounce":true,"contextMenuActions":[],"componentId":"flc9emgm","id":"dataSources","value":[{"isDatabaseView":false,"allowRealTime":true,"label":"To Do","sourceType":"table","tableOrViewName":"x_1635154_to_do_to_do","filterQuery":"","preferredVisualizations":["d24d53f60350de7a652caf3188a46ed2"],"id":"tablex_1635154_to_do_to_do1742577405829","dataCategories":["trend","group","simple"]}],"propLabel":"Data sources","showDateRangeByDefault":false,"allowChangeDateRange":false,"configVersion":"23.0.0-ci-SNAPSHOT"}</component_props>
+        <h>9</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-21 17:16:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b255baeb83102210584d56e0deaad3d4</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="To Do" source="x_1635154_to_do">39b3bb2c83942210584d56e0deaad363</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">39b3bb2c83942210584d56e0deaad363</sys_scope>
+        <sys_update_name>par_dashboard_widget_b255baeb83102210584d56e0deaad3d4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-21 17:42:48</sys_updated_on>
+        <visualization/>
+        <w>16</w>
+        <widget_props/>
+        <x>0</x>
+        <y>3</y>
+    </par_dashboard_widget>
+</record_update>

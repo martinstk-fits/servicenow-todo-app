@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="ddf477ac83942210584d56e0deaad3c7" label="To Do" max_length="40" name="x_1635154_to_do_to_do" type="collection">
+    <element db_object_id="ddf477ac83942210584d56e0deaad3c7" label="To Do" max_length="40" name="x_1635154_to_do_to_do" text_index="true" type="collection">
         <element display="true" label="To do item" max_length="150" name="to_do_item" type="string"/>
         <element choice="3" default="not_started" label="Progress" max_length="40" name="progress" type="choice">
             <choice>

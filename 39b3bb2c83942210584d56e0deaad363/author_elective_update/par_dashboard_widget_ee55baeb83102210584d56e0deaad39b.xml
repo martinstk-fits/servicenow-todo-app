@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">e255baeb83102210584d56e0deaad392</canvas>
+        <component display_value="Single score">d24d53f60350de7a652caf3188a46ed2</component>
+        <component_props>{"scoreSize":"md","headingPosition":"top","sparklineStyle":"area","showScoreDate":false,"useRelativeScoreTime":false,"showScoreUpdateTime":true,"enableRealTimeUpdate":true,"showZero":true,"colorConfig":{"type":"default"},"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"To Do","sourceType":"table","tableOrViewName":"x_1635154_to_do_to_do","filterQuery":"","id":"tablex_1635154_to_do_to_do1742577405829","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"wrapTitle":false,"showHeaderSeparator":false,"headerTitle":"Critical Tasks","showBorder":true,"bareBorder":false,"showDataPassthrough":false,"dataPassthrough":null,"metrics":[{"dataSource":"tablex_1635154_to_do_to_do1742577405829","id":"tablex_1635154_to_do_to_do17425774058291742577405836","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":null,"sortBy":"value","sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableDrilldown":true,"showMaximumRange":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":false,"period":"M","dateFormat":"default","hideMatrixAggregate":false,"newReporting":false,"filterConfigurations":[],"noDebounce":"","contextMenuActions":[]}</component_props>
+        <h>9</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-21 17:16:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ee55baeb83102210584d56e0deaad39b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="To Do" source="x_1635154_to_do">39b3bb2c83942210584d56e0deaad363</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">39b3bb2c83942210584d56e0deaad363</sys_scope>
+        <sys_update_name>par_dashboard_widget_ee55baeb83102210584d56e0deaad39b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-21 17:16:46</sys_updated_on>
+        <visualization/>
+        <w>16</w>
+        <widget_props/>
+        <x>32</x>
+        <y>3</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="To Do">39b3bb2c83942210584d56e0deaad363</application>
+        <file_path/>
+        <instance_id>3e4e97aa2b0b1e943ce2fcd2ce91bfe0</instance_id>
+        <instance_name>dev292685</instance_name>
+        <name>par_dashboard_widget_ee55baeb83102210584d56e0deaad39b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">e255baeb83102210584d56e0deaad392</canvas><component display_value="Single score">d24d53f60350de7a652caf3188a46ed2</component><component_props>{"scoreSize":"md","headingPosition":"top","sparklineStyle":"area","showScoreDate":false,"useRelativeScoreTime":false,"showScoreUpdateTime":true,"enableRealTimeUpdate":true,"showZero":true,"colorConfig":{"type":"default"},"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"To Do","sourceType":"table","tableOrViewName":"x_1635154_to_do_to_do","filterQuery":"","id":"tablex_1635154_to_do_to_do1742577405829","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"wrapTitle":false,"showHeaderSeparator":false,"headerTitle":"Critical Tasks","showBorder":true,"bareBorder":false,"showDataPassthrough":false,"dataPassthrough":null,"metrics":[{"dataSource":"tablex_1635154_to_do_to_do1742577405829","id":"tablex_1635154_to_do_to_do17425774058291742577405836","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":null,"sortBy":"value","sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableDrilldown":true,"showMaximumRange":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":false,"period":"M","dateFormat":"default","hideMatrixAggregate":false,"newReporting":false,"filterConfigurations":[],"noDebounce":"","contextMenuActions":[]}</component_props><h>9</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-03-21 17:16:46</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ee55baeb83102210584d56e0deaad39b</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="To Do" source="x_1635154_to_do">39b3bb2c83942210584d56e0deaad363</sys_package><sys_policy/><sys_scope display_value="To Do">39b3bb2c83942210584d56e0deaad363</sys_scope><sys_update_name>par_dashboard_widget_ee55baeb83102210584d56e0deaad39b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-03-21 17:16:46</sys_updated_on><visualization/><w>16</w><widget_props/><x>32</x><y>3</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>305389664</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>db727ee783102210584d56e0deaad305</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-21 17:16:46</sys_created_on>
+        <sys_id>f655baeb83102210584d56e0deaad3cf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>195b9b512c80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-21 17:16:46</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>ea55baebad1022100ff455e0b9ea37ce</update_guid>
+        <update_guid_history>ea55baebad1022100ff455e0b9ea37ce:305389664</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">7255faeb83102210584d56e0deaad30c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-21 17:16:47</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>0d65b13a5661459e82661fb58c1f3c84</sys_id>
+        <sys_metadata>ee55baeb83102210584d56e0deaad39b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="To Do" source="x_1635154_to_do">39b3bb2c83942210584d56e0deaad363</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="To Do">39b3bb2c83942210584d56e0deaad363</sys_scope>
+        <sys_scope_delete display_value="">c17e7acc05224ccdb87f9cdc23832c29</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_ee55baeb83102210584d56e0deaad39b</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_ee55baeb83102210584d56e0deaad39b">f655baeb83102210584d56e0deaad3cf</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-21 17:16:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

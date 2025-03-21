@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">e255baeb83102210584d56e0deaad392</canvas>
+        <component display_value="List - Simple">2b1c080881e05dc63b917044290b233f</component>
+        <component_props>{"table":"x_1635154_to_do_to_do","fixedQuery":"","listTitle":"My Work","columns":"","query":"assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe","groupByField":"","hideViewAll":false,"hideHighlightedValues":false,"highlightedValueConfigId":"","hideHighlightContent":false,"highlightContent":{"patterns":[],"color":""},"hideLinks":false,"wordWrap":false,"overrideWordWrapUserPref":false,"maxCharLimit":4000,"hideEmptyStateImage":false,"hidePersonalization":true,"hideDotwalk":true,"hideColumnReorder":true,"hideRowSelector":false,"hideColumnGrouping":true,"hideColumnResizing":true,"hideColumnFiltering":true,"hideColumnSorting":false,"hideHeader":false,"hideTitle":false,"hideTitleRowCount":false,"hideLastRefreshedText":false,"hideRefreshButton":false,"hideInlineEditing":true,"noDebounce":"","contextMenuActions":[]}</component_props>
+        <h>18</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-21 17:16:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6e55baeb83102210584d56e0deaad399</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="To Do" source="x_1635154_to_do">39b3bb2c83942210584d56e0deaad363</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">39b3bb2c83942210584d56e0deaad363</sys_scope>
+        <sys_update_name>par_dashboard_widget_6e55baeb83102210584d56e0deaad399</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-21 17:16:46</sys_updated_on>
+        <visualization/>
+        <w>48</w>
+        <widget_props/>
+        <x>0</x>
+        <y>12</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="To Do">39b3bb2c83942210584d56e0deaad363</application>
+        <file_path/>
+        <instance_id>3e4e97aa2b0b1e943ce2fcd2ce91bfe0</instance_id>
+        <instance_name>dev292685</instance_name>
+        <name>par_dashboard_widget_6e55baeb83102210584d56e0deaad399</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">e255baeb83102210584d56e0deaad392</canvas><component display_value="List - Simple">2b1c080881e05dc63b917044290b233f</component><component_props>{"table":"x_1635154_to_do_to_do","fixedQuery":"","listTitle":"My Work","columns":"","query":"assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe","groupByField":"","hideViewAll":false,"hideHighlightedValues":false,"highlightedValueConfigId":"","hideHighlightContent":false,"highlightContent":{"patterns":[],"color":""},"hideLinks":false,"wordWrap":false,"overrideWordWrapUserPref":false,"maxCharLimit":4000,"hideEmptyStateImage":false,"hidePersonalization":true,"hideDotwalk":true,"hideColumnReorder":true,"hideRowSelector":false,"hideColumnGrouping":true,"hideColumnResizing":true,"hideColumnFiltering":true,"hideColumnSorting":false,"hideHeader":false,"hideTitle":false,"hideTitleRowCount":false,"hideLastRefreshedText":false,"hideRefreshButton":false,"hideInlineEditing":true,"noDebounce":"","contextMenuActions":[]}</component_props><h>18</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-03-21 17:16:46</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6e55baeb83102210584d56e0deaad399</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="To Do" source="x_1635154_to_do">39b3bb2c83942210584d56e0deaad363</sys_package><sys_policy/><sys_scope display_value="To Do">39b3bb2c83942210584d56e0deaad363</sys_scope><sys_update_name>par_dashboard_widget_6e55baeb83102210584d56e0deaad399</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-03-21 17:16:46</sys_updated_on><visualization/><w>48</w><widget_props/><x>0</x><y>12</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>1973390120</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>db727ee783102210584d56e0deaad305</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-21 17:16:46</sys_created_on>
+        <sys_id>aa55baeb83102210584d56e0deaad39b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>195b9b512970000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-21 17:16:46</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>ae55baeb20102210bdf648cf2a11449a</update_guid>
+        <update_guid_history>ae55baeb20102210bdf648cf2a11449a:1973390120</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">7e55faeb83102210584d56e0deaad301</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-21 17:16:47</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>c32d953b2fed41e28105fb5054779504</sys_id>
+        <sys_metadata>6e55baeb83102210584d56e0deaad399</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="To Do" source="x_1635154_to_do">39b3bb2c83942210584d56e0deaad363</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="To Do">39b3bb2c83942210584d56e0deaad363</sys_scope>
+        <sys_scope_delete display_value="">c17e7acc05224ccdb87f9cdc23832c29</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_6e55baeb83102210584d56e0deaad399</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_6e55baeb83102210584d56e0deaad399">aa55baeb83102210584d56e0deaad39b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-21 17:16:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
