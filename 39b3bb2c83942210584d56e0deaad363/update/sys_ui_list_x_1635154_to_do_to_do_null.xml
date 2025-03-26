@@ -2,78 +2,108 @@
     <sys_ui_list parent="" relationship="" sys_domain="global" table="x_1635154_to_do_to_do" version="2" view="">
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>sys_created_on</element>
-            <list_id display_value="x_1635154_to_do_to_do" element="NULL" name="x_1635154_to_do_to_do" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">39f4f3a483542210584d56e0deaad37c</list_id>
+            <element>assigned_to</element>
+            <list_id display_value="x_1635154_to_do_to_do" element="NULL" name="x_1635154_to_do_to_do" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">d57e505583242210584d56e0deaad385</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
-            <sys_created_by>aes.creator</sys_created_by>
-            <sys_created_on>2025-03-12 14:12:55</sys_created_on>
-            <sys_id>75f4f3a483542210584d56e0deaad37d</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-26 16:46:52</sys_created_on>
+            <sys_id>157e505583242210584d56e0deaad386</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>aes.creator</sys_updated_by>
-            <sys_updated_on>2025-03-12 14:12:55</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-26 16:46:52</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>sys_created_by</element>
-            <list_id display_value="x_1635154_to_do_to_do" element="NULL" name="x_1635154_to_do_to_do" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">39f4f3a483542210584d56e0deaad37c</list_id>
+            <element>due_date</element>
+            <list_id display_value="x_1635154_to_do_to_do" element="NULL" name="x_1635154_to_do_to_do" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">d57e505583242210584d56e0deaad385</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
-            <sys_created_by>aes.creator</sys_created_by>
-            <sys_created_on>2025-03-12 14:12:55</sys_created_on>
-            <sys_id>79f4f3a483542210584d56e0deaad37d</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-26 16:46:52</sys_created_on>
+            <sys_id>957e505583242210584d56e0deaad386</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>aes.creator</sys_updated_by>
-            <sys_updated_on>2025-03-12 14:12:55</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-26 16:46:52</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>sys_updated_on</element>
-            <list_id display_value="x_1635154_to_do_to_do" element="NULL" name="x_1635154_to_do_to_do" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">39f4f3a483542210584d56e0deaad37c</list_id>
+            <element>importance</element>
+            <list_id display_value="x_1635154_to_do_to_do" element="NULL" name="x_1635154_to_do_to_do" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">d57e505583242210584d56e0deaad385</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
-            <sys_created_by>aes.creator</sys_created_by>
-            <sys_created_on>2025-03-12 14:12:55</sys_created_on>
-            <sys_id>7df4f3a483542210584d56e0deaad37d</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-26 16:46:52</sys_created_on>
+            <sys_id>197e505583242210584d56e0deaad386</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>aes.creator</sys_updated_by>
-            <sys_updated_on>2025-03-12 14:12:55</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-26 16:46:52</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>sys_updated_by</element>
-            <list_id display_value="x_1635154_to_do_to_do" element="NULL" name="x_1635154_to_do_to_do" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">39f4f3a483542210584d56e0deaad37c</list_id>
+            <element>progress</element>
+            <list_id display_value="x_1635154_to_do_to_do" element="NULL" name="x_1635154_to_do_to_do" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">d57e505583242210584d56e0deaad385</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
-            <sys_created_by>aes.creator</sys_created_by>
-            <sys_created_on>2025-03-12 14:12:55</sys_created_on>
-            <sys_id>71f4f3a483542210584d56e0deaad37e</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-26 16:46:52</sys_created_on>
+            <sys_id>997e505583242210584d56e0deaad386</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>aes.creator</sys_updated_by>
-            <sys_updated_on>2025-03-12 14:12:55</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-26 16:46:52</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>sys_mod_count</element>
-            <list_id display_value="x_1635154_to_do_to_do" element="NULL" name="x_1635154_to_do_to_do" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">39f4f3a483542210584d56e0deaad37c</list_id>
+            <element>project</element>
+            <list_id display_value="x_1635154_to_do_to_do" element="NULL" name="x_1635154_to_do_to_do" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">d57e505583242210584d56e0deaad385</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
             <sum>false</sum>
-            <sys_created_by>aes.creator</sys_created_by>
-            <sys_created_on>2025-03-12 14:12:55</sys_created_on>
-            <sys_id>75f4f3a483542210584d56e0deaad37e</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-26 16:46:52</sys_created_on>
+            <sys_id>1d7e505583242210584d56e0deaad386</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>aes.creator</sys_updated_by>
-            <sys_updated_on>2025-03-12 14:12:55</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-26 16:46:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>send_reminder</element>
+            <list_id display_value="x_1635154_to_do_to_do" element="NULL" name="x_1635154_to_do_to_do" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">d57e505583242210584d56e0deaad385</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-26 16:46:52</sys_created_on>
+            <sys_id>9d7e505583242210584d56e0deaad386</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-26 16:46:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>to_do_item</element>
+            <list_id display_value="x_1635154_to_do_to_do" element="NULL" name="x_1635154_to_do_to_do" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">d57e505583242210584d56e0deaad385</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-26 16:46:52</sys_created_on>
+            <sys_id>117e505583242210584d56e0deaad387</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-26 16:46:52</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -86,19 +116,19 @@
             <relationship/>
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
-            <sys_created_by>aes.creator</sys_created_by>
-            <sys_created_on>2025-03-12 14:12:55</sys_created_on>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-26 16:46:52</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>39f4f3a483542210584d56e0deaad37c</sys_id>
+            <sys_id>d57e505583242210584d56e0deaad385</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_1635154_to_do_to_do</sys_name>
             <sys_package display_value="To Do" source="x_1635154_to_do">39b3bb2c83942210584d56e0deaad363</sys_package>
             <sys_policy/>
             <sys_scope display_value="To Do">39b3bb2c83942210584d56e0deaad363</sys_scope>
             <sys_update_name>sys_ui_list_x_1635154_to_do_to_do_null</sys_update_name>
-            <sys_updated_by>aes.creator</sys_updated_by>
-            <sys_updated_on>2025-03-12 14:12:55</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-26 16:46:52</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
